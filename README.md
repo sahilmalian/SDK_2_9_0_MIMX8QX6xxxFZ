@@ -1,1 +1,1 @@
-# SDK_2_9_0_MIMX8QX6xxxFZ : NXP SDK for iMX8XX
+#NXP SDK for iMX8XX
